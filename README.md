@@ -22,6 +22,11 @@ I'm a passionate developer who loves building innovative solutions. Currently pu
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GideonVermeulen&layout=compact&theme=nightowl&bg_color=000000&title_color=7cebf5&text_color=ffffff&border_color=7cebf5&langs_count=8" />
 </p>
+<div align="center">
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=GideonVermeulen&theme=radical&date_format=j%20M%5B%20Y%5D)
+
+</div>
 
 ---
 
