@@ -20,8 +20,6 @@ I'm a passionate developer who loves building innovative solutions. Currently pu
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GideonVermeulen&show_icons=true&theme=nightowl&hide_title=true&count_private=true&bg_color=000000&title_color=7cebf5&text_color=ffffff&icon_color=7cebf5&border_color=7cebf5" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GideonVermeulen&theme=nightowl&background=000000&border=7cebf5&stroke=7cebf5&ring=7cebf5&fire=7cebf5&currStreakLabel=7cebf5" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GideonVermeulen&layout=compact&theme=nightowl&bg_color=000000&title_color=7cebf5&text_color=ffffff&border_color=7cebf5&langs_count=8" />
 </p>
 
