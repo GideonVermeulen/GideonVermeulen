@@ -34,7 +34,7 @@ I'm a passionate developer who loves building innovative solutions. Currently pu
 
 ### 🗣️ Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,postgres" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp" />
 </p>
 
 ### 🎨 Frontend
