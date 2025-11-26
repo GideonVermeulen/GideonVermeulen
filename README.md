@@ -76,9 +76,6 @@ I'm a passionate developer who loves building innovative solutions. Currently pu
   <a href="https://gideonvermeulen.github.io/CV_Website">
     <img src="https://img.shields.io/badge/Portfolio-gideonvermeulen.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://github.com/GideonVermeulen">
-    <img src="https://img.shields.io/badge/GitHub-GideonVermeulen-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
