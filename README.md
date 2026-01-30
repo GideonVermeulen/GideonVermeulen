@@ -18,13 +18,12 @@ I'm a passionate developer who loves building innovative solutions. Currently pu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GideonVermeulen&show_icons=true&theme=nightowl&hide_title=true&count_private=true&bg_color=000000&title_color=7cebf5&text_color=ffffff&icon_color=7cebf5&border_color=7cebf5" />
-  <br>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=GideonVermeulen&show_icons=true&theme=nightowl&hide_title=true&bg_color=000000&title_color=7cebf5&text_color=ffffff&icon_color=7cebf5&border_color=7cebf5" />  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GideonVermeulen&layout=compact&theme=nightowl&bg_color=000000&title_color=7cebf5&text_color=ffffff&border_color=7cebf5&langs_count=8" />
 </p>
 <div align="center">
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=GideonVermeulen&theme=radical&date_format=j%20M%5B%20Y%5D)
+  ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=GideonVermeulen&theme=radical&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
